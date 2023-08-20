@@ -27,7 +27,7 @@ My research, teaching, and services rely on data-driven optimization techniques 
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 Organized an invited session for 2023 CDC at Singapore titled "Computational Techniques for Automation in Power and Energy Systems", together with Yuning Jiang (EPFL), Enrique Mallada (John Hopkins), Colin Jones (EPFL), Gabriela Hug (ETH Zurich), and John Lygeros (ETH Zurich). See you all in Singapore.
+- *2023.08*: &nbsp;🎉🎉 Organized an invited session for 2023 CDC, Singapore, titled "Computational Techniques for Automation in Power and Energy Systems", together with Yuning Jiang (EPFL), Enrique Mallada (John Hopkins), Colin Jones (EPFL), Gabriela Hug (ETH Zurich), and John Lygeros (ETH Zurich). See you all in Singapore.
   
 # 📝 Publications 
 
