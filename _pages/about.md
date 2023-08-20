@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my academic page!
 
-I am an ETH postdoctoral Fellow at the [Power Systems Labaratory](https://psl.ee.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html). I am also affiliated with the [Urban Energy Systems Labaratory](https://www.empa.ch/web/s313) at [Swiss Federal Laboratories for Materials Science and Technology (Empa)](https://www.empa.ch/web/empa/) and [NCCR Automation](https://nccr-automation.ch/about/people/yi-guo-0), Switzerland. 
+I am an ETH postdoctoral Fellow at the [Power Systems Labaratory](https://psl.ee.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html). I am also a researcher affiliated with the [Urban Energy Systems Labaratory](https://www.empa.ch/web/s313) at [Swiss Federal Laboratories for Materials Science and Technology (Empa)](https://www.empa.ch/web/empa/) and [NCCR Automation](https://nccr-automation.ch/about/people/yi-guo-0), Switzerland. 
 
 My research, teaching, and services rely on data-driven optimization techniques and control theories and their applications to critical civil infrastructures, i.e., power systems with renewable energy resources, smart building energy management, municipal water networks, and wind farms. as they are operated in an optimal, sustainable, stable and efficient way.
 
