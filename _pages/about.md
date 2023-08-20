@@ -23,8 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08*: &nbsp;🎉🎉 Organized an invited session for 2023 CDC at Singapore titled "Computational Techniques for Automation in Power and Energy Systems", together with Yuning Jiang (EPFL), Enrique Mallada (John Hopkins), Colin Jones (EPFL), Gabriela Hug (ETH Zurich), and John Lygeros (ETH Zurich). See you all in Singapore.
+  
+- *2023.08*: &nbsp;🎉🎉 My academic website launch!
 
 # 📝 Publications 
 
