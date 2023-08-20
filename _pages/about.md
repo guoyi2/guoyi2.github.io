@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Weclome to my academic page!
+Welcome to my academic page!
 
 I am an ETH postdoctoral Fellow at the [Power Systems Labaratory](https://psl.ee.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html). I am also affiliated with the [Urban Energy Systems Labaratory](https://www.empa.ch/web/s313) at [Swiss Federal Laboratories for Materials Science and Technology (Empa)](https://www.empa.ch/web/empa/) and [NCCR Automation](https://nccr-automation.ch/about/people/yi-guo-0), Switzerland. 
 My previous research works focus on developing approaches that optimize economic performance while guaranteeing robustness and stability for different control and operational problems in energy systems. These approaches include the data-based distributionally robust stochastic dispatch in power grids, stochastic optimal water flow in water networks, online control/estimation algorithm design for extremely large distribution networks, stochastic LQR optimal control for wide-area frequency control, and stochastic dynamic programming for wind farm power maximization.
