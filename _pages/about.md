@@ -20,9 +20,11 @@ redirect_from:
 Welcome to my academic page!
 
 I am an ETH postdoctoral Fellow at the [Power Systems Labaratory](https://psl.ee.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html). I am also affiliated with the [Urban Energy Systems Labaratory](https://www.empa.ch/web/s313) at [Swiss Federal Laboratories for Materials Science and Technology (Empa)](https://www.empa.ch/web/empa/) and [NCCR Automation](https://nccr-automation.ch/about/people/yi-guo-0), Switzerland. 
-My previous research works focus on developing approaches that optimize economic performance while guaranteeing robustness and stability for different control and operational problems in energy systems. These approaches include the data-based distributionally robust stochastic dispatch in power grids, stochastic optimal water flow in water networks, online control/estimation algorithm design for extremely large distribution networks, stochastic LQR optimal control for wide-area frequency control, and stochastic dynamic programming for wind farm power maximization.
 
 My research, teaching, and services rely on data-driven optimization techniques and control theories and their applications to critical civil infrastructures, i.e., power systems with renewable energy resources, smart building energy management, municipal water networks, and wind farms. as they are operated in an optimal, sustainable, stable and efficient way.
+
+% In detail, my research works focus on developing approaches that optimize economic performance while guaranteeing robustness and stability for different control and operational problems in energy systems. These approaches include the data-based distributionally robust stochastic dispatch in power grids, stochastic optimal water flow in water networks, online control/estimation algorithm design for extremely large distribution networks, stochastic LQR optimal control for wide-area frequency control, and stochastic dynamic programming for wind farm power maximization.
+
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 Organized an invited session for 2023 CDC at Singapore titled "Computational Techniques for Automation in Power and Energy Systems", together with Yuning Jiang (EPFL), Enrique Mallada (John Hopkins), Colin Jones (EPFL), Gabriela Hug (ETH Zurich), and John Lygeros (ETH Zurich). See you all in Singapore.
